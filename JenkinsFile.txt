@@ -1,4 +1,4 @@
-﻿node
+node
 {
 stage 'checkout code'
 git 'https://github.com/komalverma982/JenkinsFile.git'
