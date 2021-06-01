@@ -86,7 +86,6 @@ D:\Calculator\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Han
 D:\Calculator\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\Calculator\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Calculator\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Calculator\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csprojAssemblyReference.cache
 D:\Calculator\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.AssemblyInfoInputs.cache
 D:\Calculator\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.AssemblyInfo.cs
 D:\Calculator\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
@@ -174,3 +173,4 @@ D:\Calculator\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\runtim
 D:\Calculator\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
 D:\Calculator\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
 D:\Calculator\NUnitTestProject1\NUnitTestProject1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Calculator\NUnitTestProject1\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csproj.AssemblyReference.cache
